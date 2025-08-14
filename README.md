@@ -1,4 +1,4 @@
-I'm Stephen James Connelly and I am currently a Senior studying Computer Science and Sustainable Development at Columbia University in New York City. 
+I'm Stephen and I am currently an Associate Technical Consultant at AHEAD Inc. I am a Columbia University Alumni who studied computer science and sustainable development. 
 
 <!---
 stephenjconnelly/stephenjconnelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
